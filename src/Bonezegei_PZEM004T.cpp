@@ -5,3 +5,7 @@
 */
 
 #include <Bonezegei_PZEM004T.h>
+
+Bonezegei_PZEM004T::Bonezegei_PZEM004T(){
+  
+}
