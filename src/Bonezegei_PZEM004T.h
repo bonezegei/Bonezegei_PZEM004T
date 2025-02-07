@@ -16,7 +16,7 @@ public:
   uint16_t getData(uint16_t);
   float getVoltage();
   float getCurrent(bool fahrenheit);
-  int getHumidity();
+  float getPower();
 
   uint8_t data[6];
 
